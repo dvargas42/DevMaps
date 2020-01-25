@@ -1,5 +1,10 @@
 # DevMaps - React
-:map: Application aimed at locating developers within a radius of operation in GoogleMaps.
+
+Application aimed at locating developers within a radius of operation in GoogleMaps.
+
+
+
+
 
 ## :rocket: Technologies
 
