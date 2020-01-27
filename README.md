@@ -1,4 +1,4 @@
-# DevMaps - React
+# DevRadar - NodeJS Backend
 
 Application aimed at locating developers within a radius of operation in GoogleMaps.
 
@@ -8,7 +8,9 @@ Application aimed at locating developers within a radius of operation in GoogleM
 
 This project was developed with the following technologies:
 
--  [React](https://facebook.github.io/react/)
+-  NodeJS
+-  Json
+-  REST
 -  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 ## :information_source: How To Use
